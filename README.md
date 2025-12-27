@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Manish Gupta  
 
-<!--
-**manish-mlops/manish-mlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Learning Web Development  
+🌱 Currently learning Git & GitHub  
+🎯 Goal: Become a skilled Machine Learning expert
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills (Learning Phase)
+- Python 
+- Numpy
+- Pandas
+
+---
+
+### 📌 What I'm doing right now
+- Building small projects  
+- Learning step by step  
+- Improving coding & problem-solving skills  
+
+---
+
+⭐ This profile will grow as I grow.
